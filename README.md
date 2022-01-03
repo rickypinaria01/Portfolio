@@ -1,4 +1,4 @@
 # Portfolio
 
-My name is Ricky
+#Project 1 : House Price Prediction using Regression
 
